@@ -26,7 +26,7 @@ This Python/Tkinter application provides a user-friendly GUI for extracting WAV 
 
 * Python 3.6+
 * Tkinter (bundled with standard Python)
-* Place the following executables in the same directory as `extract_thv_gui.py`:
+* Place the following executables in the same directory as `main.py`:
 
   * `thv.exe`
   * `thv072.exe`
@@ -37,8 +37,8 @@ This Python/Tkinter application provides a user-friendly GUI for extracting WAV 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Emon2358/ps-toheart-music-voice-get-tool.git
-   cd ps-toheart-music-voice-get-tool
+   git clone https://github.com/Emon2358/thv-on-windows.git
+   cd thv-on-windows
    ```
 2. Ensure the PAK→WAV EXE tools are placed alongside the script.
 3. (Optional) Create a Python virtual environment and install any dependencies.
