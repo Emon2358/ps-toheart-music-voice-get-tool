@@ -46,7 +46,7 @@ This Python/Tkinter application provides a user-friendly GUI for extracting WAV 
 ## Usage
 
 ```bash
-python extract_thv_gui.py
+python main.py
 ```
 
 1. Click **PAK ファイル…** to select your `.PAK` file (e.g., `D:\PAK\000.PAK`).
